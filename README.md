@@ -30,7 +30,7 @@ Skills: JS / REACT / NEXT/NODE/EXPRESS/MONGODB/TYPESCIRPT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=towhidulbu08&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/towhidulbu08/contributions?format=svg&private=false)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=towhidulbu08)  
 
