@@ -5,7 +5,7 @@
 #### Web Developer
 
 
-🚀 Full-Stack JavaScript Developer | MERN Stack Enthusiast
+🚀 I am Passionate Front End Developer , MERN Stack Enthusiast
 🎯 Passionate about building scalable web applications and optimizing performance.
 📌 Currently mastering Next.js and exploring backend optimizations.
 🛠️ Tech Stack: JavaScript, React, Next.js, Node.js, Express, MongoDB, Tailwind CSS
