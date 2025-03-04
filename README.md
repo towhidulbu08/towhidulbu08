@@ -1,5 +1,4 @@
 
-![Web Developer](https://avatars.githubusercontent.com/u/96813288?v=4)
 
 ### Hi there 👋, my name is Towhidul Islam 
 #### Web Developer
